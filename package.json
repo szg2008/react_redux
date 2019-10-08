@@ -1,5 +1,5 @@
 {
-  "name": "react-redux",
+  "name": "reactRedux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,6 +34,7 @@
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
     "mongoose": "^5.0.17",
+    "nodemon": "^1.19.3",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
@@ -42,6 +43,7 @@
     "react": "^16.3.2",
     "react-dev-utils": "^5.0.1",
     "react-dom": "^16.3.2",
+    "react-redux": "^7.1.1",
     "react-router-dom": "^5.1.2",
     "react_redux": "^1.2.1",
     "redux": "^4.0.0",
